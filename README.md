@@ -193,13 +193,21 @@ Common Parameters:
 ## Citation
 If you find Hanfu-Bench helpful, please consider citing our [paper](https://arxiv.org/pdf/2506.01565v1).
 ```bibtex
-@misc{zhou2025hanfubenchmultimodalbenchmarkcrosstemporal,
-      title={Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation}, 
-      author={Li Zhou and Lutong Yu and Dongchu Xie and Shaohuan Cheng and Wenyan Li and Haizhou Li},
-      year={2025},
-      eprint={2506.01565},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.01565}, 
+@inproceedings{zhou-etal-2025-hanfu,
+    title = "Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation",
+    author = "Zhou, Li  and
+      Yu, Lutong  and
+      Xie, Dongchu  and
+      Cheng, Shaohuan  and
+      Li, Wenyan  and
+      Li, Haizhou",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1251/",
+    pages = "24627--24649",
+    ISBN = "979-8-89176-332-6",
 }
 ```
