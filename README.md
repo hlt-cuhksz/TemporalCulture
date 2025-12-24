@@ -197,12 +197,7 @@ If you find Hanfu-Bench helpful, please consider citing our [paper](https://arxi
 ```bibtex
 @inproceedings{zhou-etal-2025-hanfu,
     title = "Hanfu-Bench: A Multimodal Benchmark on Cross-Temporal Cultural Understanding and Transcreation",
-    author = "Zhou, Li  and
-      Yu, Lutong  and
-      Xie, Dongchu  and
-      Cheng, Shaohuan  and
-      Li, Wenyan  and
-      Li, Haizhou",
+    author = "Zhou, Li  and Yu, Lutong  and Xie, Dongchu and Cheng, Shaohuan and Li, Wenyan and Li, Haizhou",
     booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
     month = nov,
     year = "2025",
